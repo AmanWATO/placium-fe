@@ -1,0 +1,10 @@
+{
+  "name": "placium_fe",
+  "short_name": "placium_fe",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "Placium frontend.",
+  "orientation": "portrait-primary"
+}
